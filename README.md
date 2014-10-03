@@ -1,5 +1,6 @@
 Guzzle, PHP HTTP client and webservice framework
 ================================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/adammbalogh/guzzle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/guzzle/guzzle.png?branch=master)](http://travis-ci.org/guzzle/guzzle)
 
